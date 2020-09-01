@@ -1,0 +1,128 @@
+
+
+
+
+body {
+    line-height: 1.5;
+    background-color: f5f2f2;
+    margin: auto;
+}
+
+header {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 30px;
+}
+
+a {
+    color: ff78cb;
+}
+
+main {
+    width: 800px;
+    margin: auto;
+}
+
+section {
+    margin: 30px;
+    padding: 30px;
+    vertical-align: middle;
+    background-color: ffffff;
+    border-radius: 20px;
+    position:relative;
+    overflow:hidden;
+}
+
+article {
+    margin: 20px;
+    vertical-align: middle;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 40;
+    color: f5f2f2;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+    font-size: 30;
+    color: 2f2e30;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.round-box {
+    height:200px;
+    width:200px;
+    position:relative;    
+    border-radius:30px;
+    overflow:hidden;
+    margin: 20px;
+    margin-top: 24px;
+
+}
+
+.round-box-tall {
+    height:320px;
+    width:213px;
+    position:relative;    
+    border-radius:30px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    overflow:hidden;
+}
+
+
+img {
+    position:absolute;
+    left:-50%; right:-50%; top:0;
+    margin:auto;
+    height:100%; width:auto;
+}
+
+.right {
+    float:right;
+}
+
+.left {
+    float:left;
+}
+
+.titlebox {
+    margin: 30px;
+    padding: 0px;
+    vertical-align: middle;
+    background-color: 000000;
+}
+
+
+ul {
+    list-style-type: circle;
+    color: 5c5c5c;
+    padding: 20px;
+}
+
+ul li {
+    margin: 5px;
+    color: 5c5c5c;
+}
+
+p {
+    overflow: hidden;
+    font-family: 'Vollkorn', serif;
+    font-size: 20px;
+    color: 858487;
+}
+    
+#longer-section {
+    padding-bottom: 50px;
+}
+
+footer {
+    text-align: center;
+}
